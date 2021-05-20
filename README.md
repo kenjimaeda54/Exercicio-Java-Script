@@ -1,7 +1,7 @@
 # Javascript
 
 ### Como começar
-- Fazo o clone do repositorio é pode iniciar com live server ou clicando diretamente no arquivo html e abrindo no navegador
+- Faz o clone do repositorio é pode iniciar com live server ou clicando diretamente no arquivo html e abrindo no navegador
 
 ### Desenvolvimento
 - Construi uma pequena tela de calculos matematicos.
