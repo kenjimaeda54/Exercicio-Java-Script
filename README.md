@@ -1,16 +1,16 @@
 # Javascript
 
-### Como começar
+## Como começar
 - Faz o clone do repositorio é pode iniciar com live server ou clicando diretamente no arquivo html e abrindo no navegador
 
-### Desenvolvimento
+## Desenvolvimento
 - Construi uma pequena tela de calculos matematicos.
 - A navegação enntre as telas não esta diniamico precisa manualmente interagir com cada arquivo de html 
 - Alguns dos calculos são: IMC,maior numero, idade de maior ou de menor,media aritimetica
 - Apliquei alugns principios da boa pratica de progamação: DRY,YAGNI,KISS
 
 
-### SOLID
+## SOLID
 - Como sou fascinado em boas praticas coloquei  mão na massa atendendo maximo possivel da recomendação do SOlID
 
 -Single-Responsibility Principle:
