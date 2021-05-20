@@ -11,7 +11,7 @@
 
 
 ## SOLID
-- Como sou fascinado em boas praticas coloquei  mão na massa atendendo maximo possivel da recomendação do SOlID
+- Como sou fascinado em boas praticas coloquei  mão na massa atendendo maximo possivel da recomendação do SOLID
 
 -Single-Responsibility Principle:
 Consegui aplicar fielmente o  S do solid.
